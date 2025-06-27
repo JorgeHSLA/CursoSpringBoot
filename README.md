@@ -8,3 +8,6 @@ En este repositorio encontraran  un ejemplo de docker para entender contenedores
 
 # 2.Microservicio
 https://github.com/JorgeHSLA/PrimerMicroservicio/tree/main
+
+# 3.Server Regisry y Discovery
+https://github.com/JorgeHSLA/PrimerMicroservicio/tree/main

@@ -10,4 +10,4 @@ En este repositorio encontraran  un ejemplo de docker para entender contenedores
 https://github.com/JorgeHSLA/PrimerMicroservicio/tree/main
 
 # 3.Server Regisry y Discovery
-https://github.com/JorgeHSLA/PrimerMicroservicio/tree/main
+https://github.com/JorgeHSLA/registry-server

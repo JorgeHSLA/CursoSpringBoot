@@ -13,3 +13,16 @@ https://github.com/JorgeHSLA/PrimerMicroservicio/tree/main
 
 # 3.Server Regisry y Discovery
 https://github.com/JorgeHSLA/registry-server
+
+# 4. patron load balancing
+
+Es parte de un patrón de comunicación y distribución que permite que múltiples instancias de un servicio se repartan las solicitudes, mejorando:
+
+  -El rendimiento
+
+  -La disponibilidad
+
+  -La tolerancia a fallos
+
+Teniendo en cuneta esto podemos saber que signifca que trabaja de mano con el discovery server
+

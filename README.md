@@ -14,7 +14,11 @@ https://github.com/JorgeHSLA/PrimerMicroservicio/tree/main
 # 3.Server Regisry y Discovery
 https://github.com/JorgeHSLA/registry-server
 
-# 4. patron load balancing
+# 4. configuracion centralizada
+
+https://github.com/JorgeHSLA/config-server
+
+# 5. patron load balancing
 
 https://github.com/JorgeHSLA/report-ms
 

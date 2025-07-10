@@ -22,6 +22,6 @@ https://github.com/JorgeHSLA/config-server
 
 https://github.com/JorgeHSLA/report-ms
 
-# 6. API gateaway
+# 6. API gateway
 
 
